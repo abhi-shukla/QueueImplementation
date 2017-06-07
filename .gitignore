@@ -1,0 +1,77 @@
+# specific file types #
+###################
+*.suo
+*.user
+*.metaproj
+*.dotCover
+*.vsmdi
+*.orig
+# Directories #
+###############
+[Bb]in/
+[Oo]bj/
+.grunt/
+
+# Resharper #
+#############
+_ReSharper.*
+*.ReSharper.*
+
+# Web publish log #
+###################
+*.Publish.xml
+
+# VS Upgrade stuff #
+####################
+UpgradeLog.XML
+_UpgradeReport_Files/
+
+# Packages #
+############
+# it’s better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+
+# Bower exclusions
+bower_components
+
+# Node exclusions
+node_modules
+
+#Specrunner
+_SpecRunner.html
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
